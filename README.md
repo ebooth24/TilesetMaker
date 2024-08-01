@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/resources/how_it_works.png" alt="idk"/>
+  <img src="/resources/how_it_works.png" alt="idk" style="width: 40%; height: 40%"/>
 </div>
   
 # TilesetMaker
