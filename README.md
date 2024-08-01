@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="/resources/how_it_works.png" alt="idk"/>
+</div>
+  
 # TilesetMaker
 A tool that makes designing game tilesets significantly easier. <br/>
 
@@ -10,7 +14,7 @@ It greatly reduces the number of images needed to draw from 47 to 8. These image
 
 Includes a tile drawing editor and a tileset display with autotiling.
 
-<img src="/resources/screenshot.png"  alt="screenshot">
+<img src="/resources/screenshot.png" alt="screenshot">
 
 ## Liscence
 [MIT](https://choosealicense.com/licenses/mit/)
