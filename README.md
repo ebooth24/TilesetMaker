@@ -12,9 +12,17 @@ It greatly reduces the number of images needed to draw from 47 to 8. These image
   <img src="/resources/8tiles.png"      alt="reduced tileset consisting of 8 images"   style="width: 40%; height: 40%"/>
 </p>
 
-Includes a tile drawing editor and a tileset display with autotiling.
+Includes a tile drawing editor and a tileset display with autotiling. <br/>
 
 <img src="/resources/screenshot.png" alt="screenshot">
+
+The tile drawing editor has the following features:
+- draw
+- erase (draw over currently selected color)
+- various brush sizes
+- color selector (top right, close color selector window to confirm color change)
+- eyedropper tool (right click)
+- fill (double tap)
 
 ## Liscence
 [MIT](https://choosealicense.com/licenses/mit/)
