@@ -24,5 +24,17 @@ The tile drawing editor has the following features:
 - eyedropper tool (right click)
 - fill (double tap)
 
+<br/>
+
+NOTE: 
+To save an edit to a tile, you must switch to another tile in the tile editor drawing window. <br/>
+To update all tiles after saving an edit, simply make a change in the tileset display window. <br/>
+
+
+To reset tiles:
+1. Delete the images in the "draw" folder
+2. Copy and paste images in the "drawDefault" folder to "draw"
+3. Follow the steps above to update tiles.
+
 ## Liscence
 [MIT](https://choosealicense.com/licenses/mit/)
