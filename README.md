@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="/resources/how_it_works.png" alt="idk" style="width: 40%; height: 40%"/>
 </div>
   
