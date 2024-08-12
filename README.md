@@ -16,7 +16,7 @@ Includes a tile drawing editor and a tileset display with autotiling. <br/>
 
 <img src="/resources/screenshot.png" alt="screenshot">
 
-[![TilesetMaker Demo](/resources/screenshot.png)](https://www.youtube.com/watch?v=Eq31r2sk1Pg)
+Video Demo: https://www.youtube.com/watch?v=Eq31r2sk1Pg
 
 The tile drawing editor has the following features:
 - draw
