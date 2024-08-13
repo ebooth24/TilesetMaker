@@ -38,5 +38,5 @@ To reset tiles:
 2. Copy and paste images in the "drawDefault" folder to "draw"
 3. Follow the steps above to update tiles.
 
-## Liscence
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
